@@ -1,6 +1,8 @@
 # lng-cv
 command line linguistic tools: display pronunciation, convert between regional norms of orthography; support for multiple modern and ancient languages
 
+# Installation
+
 1a. Download the binary "lng-cv" for Linux x86_64.
 
 1b. Alternatively, lng-cv can be compiled from sources by Free Pascal:
@@ -18,3 +20,7 @@ sudo cp lng-cv /usr/bin/
 3b. On Fedora Silverblue / Kinoite:
 
 sudo cp lng-cv /var/usrlocal/bin/
+
+# lng-cv Wiki:
+
+https://github.com/piotrbajdek/lng-cv/wiki
