@@ -2,7 +2,7 @@
 
 lng-cv may stand for "language converter", "linguistic converter", "lenguaje convertido", and the like.
 
-lng-cv constitutes a set of linguistic tools which allow (a) displaying pronunciation of a phrase and (b) converting between different (e.g. regional) norms of orthography when a word or some piece of text is provided as an argument directly from the command line.
+lng-cv constitutes a set of linguistic tools which allow (a) displaying pronunciation of a phrase and (b) converting between different (e.g., regional) norms of orthography when a word or some piece of text is provided as an argument directly from the command line.
 
 Multiple modern and ancient languages are (projected to be) supported.
 
