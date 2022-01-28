@@ -1,7 +1,12 @@
-# lng-cv
-command line linguistic tools: display pronunciation, convert between regional norms of orthography; support for multiple modern and ancient languages
+# WHAT IS LNG-CV
 
-# Installation
+lng-cv may stand for "language converter", "linguistic converter", "lenguaje convertido", and the like.
+
+lng-cv constitutes a set of linguistic tools which allow (a) displaying pronunciation of a phrase and (b) converting between different (e.g. regional) norms of orthography when a word or some piece of text is provided as an argument directly from the command line.
+
+Multiple modern and ancient languages are (projected to be) supported.
+
+# INSTALLATION
 
 1a. Download the binary "lng-cv" for Linux x86_64.
 
@@ -21,6 +26,6 @@ sudo cp lng-cv /usr/bin/
 
 sudo cp lng-cv /var/usrlocal/bin/
 
-# lng-cv Wiki:
+# MORE INFORMATION IS AVAILABLE IN THE LNG-CV WIKI:
 
 https://github.com/piotrbajdek/lng-cv/wiki
