@@ -26,6 +26,6 @@ sudo cp lng-cv /usr/bin/
 
 sudo cp lng-cv /var/usrlocal/bin/
 
-# CHECK OUT THE LNG-CV WIKI FOR MORE INFO:
+# CHECK OUT THE LNG-CV WIKI:
 
 https://github.com/piotrbajdek/lng-cv/wiki
