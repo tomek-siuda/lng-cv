@@ -12,7 +12,7 @@ Multiple modern and ancient languages are (projected to be) supported.
 
 1b. Alternatively, lng-cv can be compiled from sources by Free Pascal:
 
-fpc -Mdelphiunicode ./lng-cv.pas
+fpc ./lng-cv.pas
 
 2a. If access is denied, make the file executable:
 
