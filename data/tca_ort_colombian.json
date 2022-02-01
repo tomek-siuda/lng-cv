@@ -1,0 +1,37 @@
+{
+	"language": "tca",
+	"mode": "ort",
+	"description": "Colombian orthography",
+	"tasks": [
+		{
+			"type": "replace_all",
+			"items": [
+				["j", "y"],
+				["J", "Y"],
+				["tch", "ch"],
+				["Tch", "Ch"],
+				["TCH", "CH"],
+				["nh", "ñ"],
+				["Nh", "Ñ"],
+				["NH", "Ñ"],
+				["c", "k"],
+				["C", "K"],
+				["kh", "ch"],
+				["Kh", "Ch"],
+				["KH", "CH"],
+				["qui", "ki"],
+				["Qui", "Ki"],
+				["QUI", "KI"],
+				["que", "ke"],
+				["Que", "Ke"],
+				["QUE", "KE"],
+				["q", "k"],
+				["Q", "K"],
+				["x", ""],
+				["X", ""],
+				["'", ""],
+				["’", ""]
+			]
+		}
+	]	
+}
